@@ -210,16 +210,6 @@ If you prefer to run the server and client concurrently in one terminal you can 
 - If emails fail to send, double-check Gmail/SMTP credentials (`SMTP_USER`, `SMTP_PASS`) and whether an App Password is required for your account.
 - If cookies are not set during login in development, ensure the client is using the right origin (`http://localhost:5173`) and that CORS credentials are enabled (the server enables credentials by default for that origin).
 
-## Want me to run it here?
-
-I can attempt to start the server and client in this environment and open the client in the demo browser. Note: starting them here may require installing npm dependencies which can take time and requires network access. Tell me if you want me to try — I will:
-
-1. run `npm install` in `server` and `client` (if needed)
-2. start the server (`npm run server`) in one terminal
-3. start the client (`npm run dev`) in another terminal
-4. open the client in the demo browser and show the result
-
-If you want me to proceed with running it here, confirm and I will start the process.
 
 ## Available npm scripts (from package.json)
 
@@ -263,21 +253,3 @@ Notes: Protected routes use the `userAuth` middleware which checks the JWT token
 
 Contributions are welcome. Open an issue or submit a pull request with a clear description of your change.
 
-Small suggestions:
-
-- Add tests for controllers and middleware
-- Add frontend form validation and error handling improvements
-- Add Dockerfile/docker-compose for easier local setup
-
-## License
-
-This project currently does not specify a license. Add a LICENSE file if you want to set one.
-
----
-
-If you want, I can also:
-
-- add a `.env.example` in `server/`
-- add a minimal README badge or short contribution guidelines
-
-Happy coding!
