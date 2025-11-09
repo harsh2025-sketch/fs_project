@@ -1,5 +1,9 @@
 ## mern-auth
 
+![Project Logo](./assets/project-logo.svg)
+
+## mern-auth
+
 Minimal MERN authentication boilerplate (React + Vite client, Express + MongoDB server).
 
 This project implements user registration, login, email OTP verification, password reset via OTP, and JWT-based auth stored in an HTTP-only cookie.
@@ -74,6 +78,7 @@ PRs welcome. Please include a description and steps to verify changes.
 License
 
 Add a LICENSE file to declare project licensing.
+
 ## mern-auth
 
 Lightweight MERN authentication boilerplate with email verification and password reset flows.
@@ -166,7 +171,7 @@ npm install
 npm run dev
 ```
 
-The client uses Vite (default dev port: 5173). The server defaults to port 4000. CORS is configured to allow `http://localhost:5173` by default.
+The client uses Vite (default dev port: 5173). The server defaults to port 4000. CORS is configured to allow `http://localhost:5173` by default. 
 
 
 ## Additional screenshots (from `docs/`)
