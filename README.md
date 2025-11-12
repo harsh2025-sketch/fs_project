@@ -1,6 +1,6 @@
 ## mern-auth
 
-![Project Logo](./assets/project-logo.svg)
+![Project Logo](./mern-auth/assets/project-logo.svg)
 
 ## mern-auth
 
@@ -180,19 +180,19 @@ Below are the other screenshots included in the `docs/` folder. These are projec
 
 Homepage
 
-![Homepage](./docs/homepage.png)
+![Homepage](./mern-auth/docs/homepage.png)
 
 Login page
 
-![Login page](./docs/login%20page.png)
+![Login page](./mern-auth/docs/login%20page.png)
 
 Other captured screenshots
 
-![Screenshot 1](./docs/Screenshot%202025-11-08%20173730.png)
+![Screenshot 1](./mern-auth/docs/Screenshot%202025-11-08%20173730.png)
 
-![Screenshot 2](./docs/Screenshot%202025-11-08%20173759.png)
+![Screenshot 2](./mern-auth/docs/Screenshot%202025-11-08%20173759.png)
 
-![Screenshot 3](./docs/Screenshot%202025-11-08%20173850.png)
+![Screenshot 3](./mern-auth/docs/Screenshot%202025-11-08%20173850.png)
 
 ## Additional run options
 
